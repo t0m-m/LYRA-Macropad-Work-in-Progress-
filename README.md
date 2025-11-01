@@ -1,2 +1,37 @@
 # LYRA-Macropad-Work-in-Progress-
 Macropad on custom PCB 
+
+# Overview
+
+A compact and modular 9-key macropad featuring a clickable rotary encoder and a 1-inch monochrome OLED display for mode indication and visual feedback.
+Originally based on an Arduino Pro Micro, the final version integrates the microcontroller directly onto a custom PCB, improving reliability, cable management, and design cohesion.
+
+# Features
+
+* 9 mechanical keys arranged in a 3×3 layout
+
+* Rotary encoder with a clickable knob for mode switching
+
+* Four programmable modes, for example:
+
+   * Music control (volume, play/pause, next/prev)
+
+   * Program shortcuts (e.g., Photoshop, CAD, or IDE macros)
+
+   * Media / general desktop shortcuts
+
+* 1-inch OLED display for mode display and live status feedback
+
+* Fully custom PCB (in development) replacing the Arduino Pro Micro
+
+Designed for QMK/VIA or Arduino firmware
+
+# Planned Improvements
+
+Integrated ATmega32U4 MCU directly on PCB
+
+Optional USB-C connector
+
+Support for battery operation and low-power sleep modes
+
+Case design refinements for 3D printing or CNC milling
