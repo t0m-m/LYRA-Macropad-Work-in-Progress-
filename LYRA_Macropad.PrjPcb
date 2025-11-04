@@ -120,6 +120,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DRULPDJT
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for LYRA_Macropad\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
