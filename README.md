@@ -29,13 +29,13 @@ Designed for QMK/VIA or Arduino firmware
 
 # Planned Improvements
 
-Integrated ATmega32U4 MCU directly on PCB
+* Integrated ATmega32U4 MCU directly on PCB
 
-Optional USB-C connector
+* Optional USB-C connector
 
-Support for battery operation and low-power sleep modes
+* Support for battery operation and low-power sleep modes
 
-Case design refinements for 3D printing or CNC milling
+* Case design refinements for 3D printing or CNC milling
 
 # PCB Top Side View
 
