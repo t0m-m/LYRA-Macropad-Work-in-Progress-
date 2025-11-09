@@ -49,3 +49,10 @@ Moved diodes from top layer to the bottom. Added diode to the encoder. Added hot
 
 <img width="1273" height="1184" alt="image" src="https://github.com/user-attachments/assets/fd10bc57-435f-4a0a-95c3-5d14a696481f" />
 
+# Update - 09.11.2025
+
+Replaced Arduino Micro with Arduino Pro Micro. Board will be sent to production soon.
+
+<img width="1214" height="1109" alt="image" src="https://github.com/user-attachments/assets/284f7ddf-ba22-4d02-87d7-b5384de55a20" />
+
+
