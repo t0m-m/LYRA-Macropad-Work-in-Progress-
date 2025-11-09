@@ -5,7 +5,7 @@ Macropad on custom PCB
 # Overview
 
 A compact 9-key macropad featuring a clickable rotary encoder and a 1-inch monochrome OLED display for mode indication and visual feedback.
-Originally based on an Arduino Micro, the final version integrates the microcontroller directly onto a custom PCB, improving reliability, cable management, and design cohesion.
+Originally based on an Arduino Pro Micro, the final version integrates the microcontroller directly onto a custom PCB, improving reliability, cable management, and design cohesion.
 
 # Features
 
