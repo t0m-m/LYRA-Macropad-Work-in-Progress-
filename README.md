@@ -41,7 +41,8 @@ Designed for QMK/VIA or Arduino firmware
 
 This PCB is only for prototyping purposes. The final build will feature MCU directly on the PCB without the development board.
 
-<img width="943" height="939" alt="image" src="https://github.com/user-attachments/assets/c1686d3c-ef30-43cc-85ea-c9288f66ca6f" />
+<img width="1315" height="1177" alt="image" src="https://github.com/user-attachments/assets/8776c888-d379-4e89-a7f6-f5ac97b3565d" />
+
 
 # Update - 04.11.2025
 
@@ -52,7 +53,5 @@ Moved diodes from top layer to the bottom. Added diode to the encoder. Added hot
 # Update - 09.11.2025
 
 Replaced Arduino Micro with Arduino Pro Micro. Board will be sent to production soon.
-
-<img width="1214" height="1109" alt="image" src="https://github.com/user-attachments/assets/284f7ddf-ba22-4d02-87d7-b5384de55a20" />
 
 
