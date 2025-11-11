@@ -31,7 +31,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-IsProjectConflictPreventionWarningsEnabled=0
+IsProjectConflictPreventionWarningsEnabled=1
 ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
@@ -47,6 +47,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=LYRA Prototype
 
 [Preferences]
 PrefsVaultGUID=
@@ -120,8 +121,131 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DRULPDJT
 
+[Document5]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document6]
+DocumentPath=Job2.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueId=f775682b-9b3f-4c69-a28c-9924616b8d1d
+Description=LYRA Prototype
+AllowFabrication=0
+ParameterCount=0
+VariationCount=9
+Variation1=Designator=S10|UniqueId=\OGZBFLCI|Kind=1|AlternatePart=
+Variation2=Designator=S11|UniqueId=\WEFMRJLA|Kind=1|AlternatePart=
+Variation3=Designator=S12|UniqueId=\UTEVZJQS|Kind=1|AlternatePart=
+Variation4=Designator=S15|UniqueId=\FSINCEKC|Kind=1|AlternatePart=
+Variation5=Designator=S14|UniqueId=\SYHYOPYJ|Kind=1|AlternatePart=
+Variation6=Designator=S13|UniqueId=\OKPAZACG|Kind=1|AlternatePart=
+Variation7=Designator=S16|UniqueId=\MJGWEGNE|Kind=1|AlternatePart=
+Variation8=Designator=S17|UniqueId=\PQCAXAXY|Kind=1|AlternatePart=
+Variation9=Designator=S18|UniqueId=\XSOZXECI|Kind=1|AlternatePart=
+ParamVariationCount=0
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for LYRA_Macropad\Design Rule Check - PCB1.html
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCB1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for LYRA_Macropad\NC Drill\PCB1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for LYRA_Macropad\Gerber\PCB1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for LYRA_Macropad\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for LYRA_Macropad\Gerber\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCB1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for LYRA_Macropad\NC Drill\PCB1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for LYRA_Macropad\Gerber\PCB1_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for LYRA_Macropad\Gerber\PCB1_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for LYRA_Macropad\Gerber\PCB1_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for LYRA_Macropad\Gerber\PCB1_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for LYRA_Macropad\Gerber\PCB1_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for LYRA_Macropad\Gerber\PCB1_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for LYRA_Macropad\Gerber\PCB1_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for LYRA_Macropad\Gerber\PCB1_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for LYRA_Macropad\Gerber\PCB1_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Configuration1]
